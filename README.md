@@ -1,6 +1,10 @@
-# Unofficial Next.js Docs Localization
+# nextjs.guide
 
-## Our Goal, one and only
+> Unofficial Next.js docs localization
+
+![nextjs-guide-banner](https://github.com/nextjs-guide/nextjs.guide/assets/120007119/0c030cfc-f074-48a5-960c-29fecc45591c)
+
+## Our Goal, the one and only
 
 Each one of us is privileged.
 
@@ -21,3 +25,8 @@ You can see the progress at [nextjs.guide](https://nextjs.guide)
 ## Contribution
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+## Thanks to
+
+- [George Kim](https://github.com/ggkim0614) for designing `nextjs.guide` logo
+- [Shu Ding](https://github.com/shuding) for creating and maintaining [Nextra](https://github.com/shuding/nextra)
