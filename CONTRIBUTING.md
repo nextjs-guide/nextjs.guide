@@ -1,5 +1,9 @@
 # Contributing
 
+It is advisable for all repositories under the `[locale].nextjs.guide` project to use English as the primary language for development and discussions.
+
+This practice helps reduce the occurrence of duplicate issues across the projects.
+
 ## Prerequisites
 
 - [Git](https://git-scm.com/)
@@ -25,6 +29,6 @@ Open the localhost (default as `http://localhost:3000`) in your browser.
 
 ## Development - Web
 
-`nextjs.guide` is built on top of [Nextra](https://github.com/shuding/nextra), which supports the docs theme with Next.js and MDX out of the box.
+`nextjs.guide` is built on top of [Nextra](https://github.com/shuding/nextra) which supports the docs theme with Next.js and MDX out of the box.
 
-We recommend you to read the [Nextra docs](https://nextra.site/docs/docs-theme/start) first.
+We recommend you read the [Nextra docs](https://nextra.site/docs/docs-theme/start) first.
