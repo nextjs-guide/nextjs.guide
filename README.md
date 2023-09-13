@@ -1,6 +1,4 @@
-# nextjs.guide
-
-> Unofficial Next.js docs localization
+# Unofficial Next.js Docs Localization
 
 ## Our Goal, one and only
 
@@ -18,7 +16,7 @@ Until the day Vercel officially supports localization, we will be the ones who w
 
 ## Progress
 
-You can see the progress at [nextjs.guide](https://nextjs.guide).
+You can see the progress at [nextjs.guide](https://nextjs.guide)
 
 ## Contribution
 
